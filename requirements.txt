@@ -6,3 +6,4 @@ tensorflow==2.19.0
 scikit-learn==1.6.1
 matplotlib==3.10.3
 sastrawi==1.0.1
+nltk==3.9.1
